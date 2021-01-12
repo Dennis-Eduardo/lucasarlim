@@ -1,4 +1,4 @@
-# Hey 👋 # Hey 👋 
+# Hey 👋 
 
 #### Prazer, Meu nome é Lucas Araujo   
 
