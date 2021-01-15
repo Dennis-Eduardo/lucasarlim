@@ -3,7 +3,7 @@
 #### Prazer, Meu nome é Lucas Araujo   
 
 -   🎓Graduando em Ciência da Computação na  [UFCG](https://portal.ufcg.edu.br/)
--   💻Experiencia:  Python , Git, Prototipação, Figma e Photoshop 
+-   💻Experiencia:  Python , Git, Prototipação, Figma, Photoshop e Desenvolvimento Web
 -   📚Estou aprendendo: Javascript, HTML 5, CSS 3 e Bootstrap
 -   🎯  Tenho interesse: ReactJs
 
