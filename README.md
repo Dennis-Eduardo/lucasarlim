@@ -1,14 +1,13 @@
-# Ola 👋 
+<img src=".github/computer.png" width="400px" align="right" alt="Computador">
 
-#### Prazer, Meu nome é Lucas Araujo   
+<h2 align="left">Hi, I'm Lucas Araújo 👋🏽</h1>
+<p align=left>I'm studying <strong>Computer Science</strong> in UFCG.</p>
+<p align="left">🚀 Skills: <strong>HTML, CSS, Python, Prototyping.</strong></p>
+<p align="left">🌈 Currently studying: <strong>Java, React and JavaScript.</strong></p>
+<p align="left">💻 Tools: <strong>Visual Studio Code, Photoshop, Figma, Git and GitHub.</strong></p>
+<p align="left">💌 Social networks: ⤵️</p>
 
--   🎓Graduando em Ciência da Computação na  [UFCG](https://portal.ufcg.edu.br/)
--   💻Experiencia:  Python , Git, Prototipação, Figma, Photoshop e Desenvolvimento Web
--   📚Estou aprendendo: Javascript, HTML 5, CSS 3 e Bootstrap
--   🎯  Tenho interesse: ReactJs
-
-Sempre estou disposto para resolver problemas e aprender. Estou aberto a novos desafios e pronto para enfrentar mudanças e cumprir meus objetivos. 🚀
-
-####  Contato
-
-[! [Instagram Badge] (https://img.shields.io/badge/-@lucasl1m-6633cc?style=flat-square&labelColor=6633cc&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucasl1m/?hl=pt-br)] (https://www.instagram.com/lucasl1m/?hl=pt-br)  [! [Emblema do Linkedin] (https://img.shields.io/badge/-Lucas%20Araujo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-2883271b3/)] (https://www.linkedin.com/in/lucas-lima-2883271b3/)  [! [Selo do Gmail] (https://img.shields.io/badge/-lucas.araujo.lima@ccc.ufcg.edu.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.araujo.lima@ccc.ufcg.edu.br)] (mailto: lucas.araujo.lima@ccc.ufcg.edu.br)
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-ara%C3%BAjo-de-lima-2883271b3/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://api.whatsapp.com/send?phone=5583987196021&text=Ol%C3%A1%20Lucas!%20" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583987196021&text=Ol%C3%A1%20Lucas!%20"/></a>
+</p>
