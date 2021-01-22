@@ -5,7 +5,7 @@
 <p align="left">🚀 Skills: <strong>HTML, CSS, Python, Prototyping.</strong></p>
 <p align="left">📚Currently studying: <strong>Java, React and JavaScript.</strong></p>
 <p align="left">💻 Tools: <strong>Visual Studio Code, Photoshop, Figma, Git and GitHub.</strong></p>
-<p align="left">📧 Social networks: ⤵️</p>
+<p align="left">📧 Social networks: </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-ara%C3%BAjo-de-lima-2883271b3/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
