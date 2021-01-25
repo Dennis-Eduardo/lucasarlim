@@ -1,6 +1,7 @@
 <img src="computer.png" width="400px" align="right" alt="Computador">
 
 <h2 align="left">Hi, I'm Lucas Araújo 👋🏽</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasarlim" alt="lucasarlim" /> </p>
 <p align=left>I'm studying <strong>Computer Science</strong> in UFCG.</p>
 <p align="left">🚀 Skills: <strong>HTML, CSS, Python, Prototyping.</strong></p>
 <p align="left">📚Currently studying: <strong>Java, React and JavaScript.</strong></p>
