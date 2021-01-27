@@ -1,4 +1,4 @@
-<img src="computer1.png" width="400px" align="right" alt="Computador">
+<img src="computer1.jpg" width="400px" align="right" alt="Computador">
 
 <h2 align="left">Hi, I'm Lucas Araújo 👋🏽</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasarlim" alt="lucasarlim" /> </p>
