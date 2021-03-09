@@ -1,0 +1,23 @@
+#top{
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    width: 100%;
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    h1{
+        font-size: 5rem;
+
+        color: var(--red);
+        letter-spacing: 8px;
+    }
+
+    p{
+        font-size: 1.2rem;
+        font-weight: 300;
+        color: var(--gray-light);
+    }
+}
