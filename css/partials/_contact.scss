@@ -7,3 +7,45 @@
     align-items: center;
     justify-content: space-between;
 }
+
+#contact div{
+    width: 100%;
+    min-height: 20vh;
+}
+
+#contact div ul{
+    display: flex;
+    width: 100%;
+    
+
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    list-style: none;
+}
+
+li a{
+    font-size:96px;
+    text-decoration: none;
+    color: var(--gray-light)
+}
+
+a:focus, a:hover{
+    color: #D80032;
+    transition: all .7s ease-in;
+    transform: translate3d(0, -8px, 0);
+}   
+
+@media screen and (max-width: 560px){
+    #contact div ul{
+        flex-direction: column;
+
+        a{
+            margin-right: 0px;
+            margin-bottom: 32px;
+        }
+    }
+}

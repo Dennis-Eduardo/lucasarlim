@@ -11,32 +11,6 @@
     margin: 0 auto;
 }
 
-.nav-social{
-    display: flex;
-
-    list-style: none;
-    align-items: center;
-}
-
-.nav-social li{
-    display: flex;  
-    align-items: center;
-}
-
-.nav-social a{
-    font-size: 24px;
-    padding: 8px;
-    color: #fff;
-    text-decoration: none;
-}
-
-.nav-social a:hover,
-.nav-social a:focus{
-    color: #D80032;
-    transition: all .7s ease;
-    transform: translate3d(0, -5px, 0);
-}   
-
 .hamburguer{
     display: flex;
     width: 36px;
