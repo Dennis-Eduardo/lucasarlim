@@ -11,13 +11,12 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-ara%C3%BAjo-de-lima-2883271b3/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://api.whatsapp.com/send?phone=5583987196021&text=Ol%C3%A1%20Lucas!%20" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583987196021&text=Ol%C3%A1%20Lucas!%20"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasarlim&show_icons=true" alt="lucasarlim"/> 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasarlim&show_icons=true" alt="lucasarlim"/> 
-</p>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
+  <a target='_blank' href="https://instagram.com/lucasl1m">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/lucas-ara%C3%BAjo-de-lima-2883271b3/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
