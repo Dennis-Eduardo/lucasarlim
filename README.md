@@ -15,8 +15,8 @@
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasarlim&show_icons=true&theme=dark&layout=compact&card_width=445" alt="lucasarlim"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarlim&theme=dark&layout=compact&card_width=445"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasarlim&show_icons=true&theme=light&layout=compact&card_width=445" alt="lucasarlim"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarlim&theme=light&layout=compact&card_width=445"/>
 </div>
 
 
