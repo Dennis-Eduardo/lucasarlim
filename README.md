@@ -16,7 +16,7 @@
 </div>
 
 <!-- GitHub Stats -->
-<h4 align="left">My GitHub Stats 📈</h2>
+<h3 align="left">My GitHub Stats 📈</h3>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucasarlim&show_icons=true&theme=light&layout=compact&card_width=445" alt="lucasarlim"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarlim&theme=light&layout=compact&card_width=445"/>
