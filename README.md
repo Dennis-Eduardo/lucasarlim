@@ -1,7 +1,12 @@
 <img src="computer.png" width="400px" align="right" alt="Computador">
 
 <h1 align="left">Hi, I'm Lucas Araújo 👋🏽</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasarlim" alt="lucasarlim" /></p>
+
+<div display="flex">
+ <p> <img src="https://komarev.com/ghpvc/?username=lucasarlim" alt="lucasarlim" /></p>
+ ![GitHub followers](https://img.shields.io/github/followers/lucasarlim?label=Seguir&style=social)
+</div>
+
 <p align=left>I'm studying <strong>Computer Science</strong> in UFCG.</p>
 <p align="left">🚀 Skills: <strong>HTML, CSS, Python, JavaScript, Wordpress, UX/UI Design.</strong></p>
 <p align="left">📚 Currently studying: <strong>NodeJs, React and React Native.</strong></p>
