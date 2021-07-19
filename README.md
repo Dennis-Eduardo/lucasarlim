@@ -14,19 +14,19 @@
 <p align="left">📧 Social networks: </p>
 
  <!-- Contacts -->
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-ara%C3%BAjo-de-lima-2883271b3/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/lucasl1m/" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-5851db?style=flat-square&labelColor=5851db&logo=instagram&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5583987196021&text=Ol%C3%A1%20Lucas!%20" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583987196021&text=Ol%C3%A1%20Lucas!%20"/></a>
-</div>
-
-<!-- GitHub Stats -->
-<h3 align="left">My GitHub Stats 📈</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucasarlim" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasarlim"></a>  
+  <a href="https://www.linkedin.com/in/lucasarl1m" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasarl1m"></a>  
   <a href="mailto:lucas.araujo.lima@ccc.ufcg.edu.br" alt="Email"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.araujo.lima@ccc.ufcg.edu.br"></a>  
   </p>
 </p>
+
+<!-- GitHub Stats -->
+<h3 align="left">My GitHub Stats 📈</h3>
+ <div>
+  <a href="https://github.com/lucasarlim">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasarlim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarlim&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 
 
