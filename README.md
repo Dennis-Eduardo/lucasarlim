@@ -1,4 +1,4 @@
-<img src="react_img" width="400px" align="right" alt="React"/>
+<img src="react_img.png" width="400px" align="right" alt="React"/>
 
 <h1 align="left">Hi, I'm Lucas Araújo 👋🏽</h1>
 
@@ -9,6 +9,8 @@
 
 <br>
 
+
+👨‍💻 I currently work at <a href="https://codexjr.com.br" target="_blank">CodeX Jr.</a>
 <p align=left>💼 I'm studying <strong>Computer Science</strong> in UFCG.</p>
 <p align="left">🚀 Skills: <strong>HTML, CSS, Python, JavaScript, Wordpress, UX/UI Design.</strong></p>
 <p align="left">📚 Currently studying: <strong>React and React Native.</strong></p>
