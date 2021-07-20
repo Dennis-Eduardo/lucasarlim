@@ -1,4 +1,4 @@
-<a href="https://camo.githubusercontent.com/800faf0176daaf73eb0ca31db106e92d3d7e5426cf0db03d1ad1a01efacbc9b0/68747470733a2f2f7777772e616c7572612e636f6d2e62722f6173736574732f6170692f637572736f732f3531322f72656163742d6a732e706e67" width="300px" align="right" alt="Reactr"/>
+<img src="react_img" width="400px" align="right" alt="React"/>
 
 <h1 align="left">Hi, I'm Lucas Araújo 👋🏽</h1>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-<p align=left>💼I'm studying <strong>Computer Science</strong> in UFCG.</p>
+<p align=left>💼 I'm studying <strong>Computer Science</strong> in UFCG.</p>
 <p align="left">🚀 Skills: <strong>HTML, CSS, Python, JavaScript, Wordpress, UX/UI Design.</strong></p>
 <p align="left">📚 Currently studying: <strong>React and React Native.</strong></p>
 <p align="left">💻 Tools: <strong>Figma, Photoshop, Git and GitHub.</strong></p>
