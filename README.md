@@ -10,8 +10,8 @@
 <br>
 
 
-👨‍💻 I currently work at <a href="https://codexjr.com.br" target="_blank">CodeX Jr.</a>
-<p align=left>💼 I'm studying <strong>Computer Science</strong> in UFCG.</p>
+<p align="left">💼 I currently work at <a href="https://codexjr.com.br" target="_blank">CodeX Jr.</a></p>
+<p align=left> 👨‍💻 I'm studying <strong>Computer Science</strong> in UFCG.</p>
 <p align="left">🚀 Skills: <strong>HTML, CSS, Python, JavaScript, Wordpress, UX/UI Design.</strong></p>
 <p align="left">📚 Currently studying: <strong>React and React Native.</strong></p>
 <p align="left">💻 Tools: <strong>Figma, Photoshop, Git and GitHub.</strong></p>
