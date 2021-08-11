@@ -20,9 +20,10 @@
 <h3 align="left">Contact me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucasarl1m" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasarl1m"></a>  
-  <a href="mailto:lucas.araujo.lima@ccc.ufcg.edu.br" alt="Email"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.araujo.lima@ccc.ufcg.edu.br"></a>  
-  </p>
+  <a href="https://twitter.com/lucas_l1m" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucasl1m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasarl1m" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucas.araujo.lima@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
 </p>
 
 <!-- GitHub Stats -->
